@@ -1,2 +1,2 @@
-# HooHacks24
-github repo for hoo hacks 2024 project 
+# LeftOver Love
+github repo for LeftOver Love project 
